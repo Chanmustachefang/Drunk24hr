@@ -66,7 +66,7 @@ export default function IndexPage() {
 
           <ul className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             <li>
-              <a href="#" className="group block overflow-hidden">
+              <div className="group block overflow-hidden">
                 <img
                   src="https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
                   alt=""
@@ -84,11 +84,11 @@ export default function IndexPage() {
                     <span className="tracking-wider text-gray-900"> £24.00 GBP </span>
                   </p>
                 </div>
-              </a>
+              </div>
             </li>
 
             <li>
-              <a href="#" className="group block overflow-hidden">
+              <div className="group block overflow-hidden">
                 <img
                   src="https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
                   alt=""
@@ -106,11 +106,11 @@ export default function IndexPage() {
                     <span className="tracking-wider text-gray-900"> £24.00 GBP </span>
                   </p>
                 </div>
-              </a>
+              </div>
             </li>
 
             <li>
-              <a href="#" className="group block overflow-hidden">
+              <div className="group block overflow-hidden">
                 <img
                   src="https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
                   alt=""
@@ -128,11 +128,11 @@ export default function IndexPage() {
                     <span className="tracking-wider text-gray-900"> £24.00 GBP </span>
                   </p>
                 </div>
-              </a>
+              </div>
             </li>
 
             <li>
-              <a href="#" className="group block overflow-hidden">
+              <div className="group block overflow-hidden">
                 <img
                   src="https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
                   alt=""
@@ -150,7 +150,7 @@ export default function IndexPage() {
                     <span className="tracking-wider text-gray-900"> £24.00 GBP </span>
                   </p>
                 </div>
-              </a>
+              </div>
             </li>
 
           </ul>
